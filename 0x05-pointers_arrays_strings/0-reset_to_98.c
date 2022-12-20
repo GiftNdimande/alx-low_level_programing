@@ -3,10 +3,10 @@
 
 /**
  * reset_to_98 - check the code
- *
- * Return: Always 0.
+ *@n - input
+ * Return: n
  */
-int reset_to_98(int *n)
+void reset_to_98(int *n)
 {
 	*n = 98;
 }
