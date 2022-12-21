@@ -6,7 +6,7 @@
  * @n: number of ellements
  * Return: a and n inputs 
  */
-void print_array(int *a, int n);
+void print_array(int *a, int n)
 {
 	int i;
 
