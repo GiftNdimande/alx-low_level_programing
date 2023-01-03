@@ -5,6 +5,7 @@
  * _strpbrk - Searches a string
  * @s: The string
  * @accept: The set of bytes to search for
+ * Return: Pointer
  */
 char *_strpbrk(char *s, char *accept)
 {
